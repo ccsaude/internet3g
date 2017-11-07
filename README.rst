@@ -1,4 +1,3 @@
-OpenMRS Report Updater
+internet3g
 
-Ferramenta para simplificar o processo de actualizacao de relotorios no OpenMRS. Desenvolvido para correr na plataforma Cent OS
-com python >=3.3
+Ferramenta complementar a conexao do modem ZTE ao sistema Cent OS
